@@ -1,11 +1,11 @@
 {
-    "iventario": [
-      { "id": 1, "name": "canazin", "marca": "canna", "precio": "eur"}, 
-      { "id": 2, "name": "canna A", "marca": "canna", "precio": "eur" },
-      { "id": 3, "name": "canna B", "marca": "canna", "precio": "eur"}
+    "Iventario": [
+      { "id": 1, "name": "canazin", "marca": "canna", "precio": "2eur"}, 
+      { "id": 2, "name": "canna A", "marca": "canna", "precio": "4eur"},
+      { "id": 3, "name": "canna B", "marca": "canna", "precio": "4eur"}
     ],
-    "usuario": [
-      { "id": 1, "body": "pedrito", "postId": 1 }
+    "Usuario": [
+      { "id": 1, "body": "pedrito", "postId": 1 },
       { "id": 1, "body": "juancito", "postId": 1 }
     ],
     "profile": { "name": "typicode" }

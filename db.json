@@ -1,8 +1,8 @@
 {"inventario": [
-  { "id": 1, "producto": "canazin", "cantidad": "10", "compra": "2€", "venta": "6 0164", "id_proveedor": "1"}, 
-  { "id": 2, "producto": "canna A", "cantidad": "5", "compra": "6 U+20AC", "venta": "20 &#8364;", "id_proveedor": "2"},
-  { "id": 3, "producto": "canna B", "cantidad": "5", "compra": "6 U+20AC", "venta": "20 &#8364;", "id_proveedor": "2"},
-  { "id": 4, "producto": "rizo", "cantidad": "5", "compra": "6 U+20AC", "venta": "20 &#8364;", "id_proveedor": "1"}
+  { "id": 1, "producto": "canazin", "cantidad": "10", "compra": "2€", "venta": "6€", "id_proveedor": "1"}, 
+  { "id": 2, "producto": "canna A", "cantidad": "5", "compra": "6€", "venta": "20€", "id_proveedor": "2"},
+  { "id": 3, "producto": "canna B", "cantidad": "5", "compra": "6€", "venta": "20€", "id_proveedor": "2"},
+  { "id": 4, "producto": "rizo", "cantidad": "5", "compra": "3€", "venta": "12€", "id_proveedor": "1"}
 ],
  "users": [
    { "id": 2, "body": "pedrito", "postId": 1 },
